@@ -1,0 +1,33 @@
+# Modelo Predictivo AW-Bikes (II)
+# Dependencias de Python 3.12
+# Instalar con: pip install -r requirements.txt
+
+# Core Data Science
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Machine Learning
+scikit-learn>=1.3.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Data Input/Output
+openpyxl>=3.10.0  # Para lectura de archivos Excel
+
+# Generación de Reportes
+python-docx>=0.8.11
+
+# Jupyter (opcional - para desarrollo interactivo)
+jupyter>=1.0.0
+notebook>=6.5.0
+jupyterlab>=3.6.0
+
+# Testing y Quality (opcional)
+pytest>=7.4.0
+black>=23.9.0  # Code formatter
+
+# Documentation (opcional)
+sphinx>=7.1.0
+sphinx-rtd-theme>=1.3.0

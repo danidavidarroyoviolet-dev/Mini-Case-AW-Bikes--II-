@@ -1,0 +1,97 @@
+# Archivos de sistema operativo
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Entornos virtuales de Python
+venv/
+env/
+ENV/
+.venv
+.env
+
+# Directorios de caché de Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# IDE y editores
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.pydevproject
+.settings/
+*.sublime-project
+*.sublime-workspace
+
+# Testing
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Archivos de datos grandes (opcional - descomenta si quieres excluir datos)
+# *.xlsx
+# *.xls
+# *.csv
+
+# Archivos temporales
+*.tmp
+*.temp
+*.bak
+*.swp
+
+# Archivos de resultados de ejecución
+*.log
+logs/
+
+# Archivos específicos del proyecto
+.env.local
+.env.*.local
+
+# Archivos de Google Colab
+.colab/
+
+# Archivos generados automáticamente
+*.png~
+*.jpg~
+
+# Node modules (si usas JavaScript/TypeScript también)
+node_modules/
+npm-debug.log
+
+# Dependencias de librerías de Anaconda
+.anaconda/
