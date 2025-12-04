@@ -81,10 +81,7 @@ Mini-Case-AW-Bikes-II/
 │   ├── 07_matriz_correlacion_completa.png      # Heatmap de correlaciones
 │   └── 08_curva_aprendizaje.png                # Curva de aprendizaje
 ├── reportes/
-│   ├── INFORME_AWBIKES_COMPLETO.docx           # Informe ejecutivo (8 pág)
 │   ├── ANALISIS_PROFUNDO_AWBIKES.docx          # Análisis profundo (10 pág)
-│   ├── REFERENCIAS_Y_FUENTES_AWBIKES.docx      # Referencias académicas
-│   └── COMO_CITAR_EN_TU_INFORME.docx           # Guía de citas
 ├── requirements.txt                            # Dependencias de Python
 ├── .gitignore                                  # Archivos a ignorar
 └── LICENSE                                     # Licencia del proyecto
